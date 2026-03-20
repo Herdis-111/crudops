@@ -5,23 +5,49 @@
       "userName": "Ola Nordmann",
       "password": "abc123",
       "email": "ola@example.com",
-      "description": "Trenger hundepass i helger og ferier",
+      "location": "Oslo",
+      "img": "/user-img-Ola-Nordmann.webp",
+      "description": "Trenger hundepass i helger og ferier en sjelden gang. Har bil, så kan kjøre litt ut av sentrum for å møtes om nødvendig.",
       "dogs": [
         {
           "id": 1,
           "name": "Bella",
+          "pic": "/dog-card-img-Bella.webp",
           "breed": "Golden Retriever",
           "age": 4,
-          "allergies": [
-            "kylling"
-          ]
+          "allergies": ["kylling"],
+          "about": "Bella er en energibombe uten like. Hun elsker alt av aktivitet og vil trenge mange lange turer, gjerne i naturomgivelser. Dessuten elsker hun å bade! Hun elsker også barn og er alltid med på leken med den største entusiasme. Hun liker derimot ikke så godt å være alene, men hvis hun har Max ved sin side klarer hun seg fint i noen timer uten tilsyn."
         },
         {
           "id": 2,
           "name": "Max",
+          "pic": "/dog-card-img-Max.webp",
           "breed": "Labrador",
           "age": 2,
-          "allergies": []
+          "allergies": [],
+          "about": "Max er litt mer nervøs og trenger mye kos og omsorg. Han trives best sammen med Bella og lar gjerne hun ta styringen litt. Han er vandt med barn, men han trekker seg fort unna hvis det blir for mye bråk og leven."
+        }
+      ],
+      "created": "2025-09-01T10:30:00",
+      "updated": "2025-09-10T14:20:00"
+    },
+    {
+      "id": 2,
+      "userName": "Ylva Snøløs",
+      "password": "passord",
+      "email": "ylva@example.com",
+      "location": "Bergen",
+      "img": "/user-img-Ylva-Snolos.webp",
+      "description": "Trenger hundepass til sommerferien",
+      "dogs": [
+        {
+          "id": 1,
+          "name": "Einstein",
+          "pic": "/dog-card-img-Einstein.webp",
+          "breed": "Pembroke Welsh Corgi",
+          "age": 9,
+          "allergies": ["hvete"],
+          "about": "Kommer."
         }
       ],
       "created": "2025-09-01T10:30:00",
