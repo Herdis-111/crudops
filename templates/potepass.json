@@ -47,7 +47,47 @@
           "breed": "Pembroke Welsh Corgi",
           "age": 9,
           "allergies": ["hvete"],
-          "about": "Kommer."
+          "about": "Einstein er en kvikk og oppvakt liten fyr med masse personlighet. Han elsker å bruke hodet sitt og trives best når han får oppgaver å løse eller lære nye triks. Med sitt våkne blikk og raske bein er han alltid klar for både lek og aktivitet. Samtidig er han svært lojal og knytter sterke bånd til sine mennesker. Einstein går fint sammen med barn, men setter pris på tydelige rammer og litt struktur i hverdagen for å trives aller best."
+        }
+      ],
+      "created": "2025-09-01T10:30:00",
+      "updated": "2025-09-10T14:20:00"
+    },
+    {
+      "id": 3,
+      "userName": "Aretha Gard-Simonsen",
+      "password": "passord123",
+      "email": "ags@example.com",
+      "location": "Risør",
+      "img": "/user-img-Aretha-Gard-Simonsen.webp",
+      "description": "Trenger hundepass litt sporadisk, men oftest i ferier. Reiser gjerne litt lengre for den riktige hundepasseren for mine hunder. Og jeg setter veldig pris på Snaps underveis i løpet av oppholdet.",
+      "dogs": [
+        {
+          "id": 1,
+          "name": "Severus",
+          "pic": "/dog-card-img-Severus.webp",
+          "breed": "Dachshund",
+          "age": 6,
+          "allergies": [""],
+          "about": "Severus er en liten grubler med stor personlighet. Han tar livet i sitt eget tempo og elsker rolige spaserturer hvor han får snuse seg gjennom hvert eneste hjørne. Han kan være litt sta til tider, men vinner deg raskt over med sitt lune vesen. Severus trives best i rolige omgivelser og setter stor pris på en fast rutine. Han er ikke den mest lekne med barn, men koser gjerne ved siden av når stemningen er rolig."
+        },
+        {
+          "id": 2,
+          "name": "Harley",
+          "pic": "/dog-card-img-Harley.webp",
+          "breed": "Cockapoo",
+          "age": 5,
+          "allergies": [""],
+          "about": "Harley er en sosial sjarmør som elsker å være midtpunktet. Hun hilser gladelig på både mennesker og andre hunder, og logrer seg raskt inn i alles hjerter. Harley er leken og tilpasningsdyktig, og blir gjerne med på både turer og sofakos. Hun er vant med barn og trives godt i en livlig hverdag, men trenger også litt mental stimulering for å holde seg fornøyd."
+        },
+        {
+          "id": 3,
+          "name": "Frodo",
+          "pic": "/dog-card-img-Frodo.webp",
+          "breed": "Pug",
+          "age": 2,
+          "allergies": ["svin"],
+          "about": "Frodo er en liten kar med stor selvtillit og enda større sjarm. Han elsker oppmerksomhet og følger gjerne etter deg overalt, alltid klar for både kos og små eventyr. Til tross for størrelsen har han et våkent og modig vesen, og han sier gjerne ifra hvis noe virker mistenkelig. Frodo trives godt med barn, så lenge de er rolige og hensynsfulle, og han setter stor pris på å få være en del av familien i hverdagen."
         }
       ],
       "created": "2025-09-01T10:30:00",
@@ -59,6 +99,7 @@
       "id": 1,
       "name": "Kari Hansen",
       "location": "Oslo",
+      "img": "/petsitter_kari.webp",
       "pricePerDay": 400,
       "rating": 4.6,
       "reviewCount": 12,
@@ -67,6 +108,40 @@
       "acceptsLargeDogs": false,
       "yearsOfExperience": 5,
       "experienceDescription": "Erfaring med valper, seniorhunder og lange turer",
+      "available": true,
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+    {
+      "id": 2,
+      "name": "Jarle Larsen",
+      "location": "Trondheim",
+      "img": "/petsitter_jarle.webp",
+      "pricePerDay": 600,
+      "rating": 3.2,
+      "reviewCount": 3,
+      "maxDogs": 5,
+      "acceptsPuppies": true,
+      "acceptsLargeDogs": true,
+      "yearsOfExperience": 2,
+      "experienceDescription": "Lang erfaring med alle typer hunder",
+      "available": true,
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+    {
+      "id": 3,
+      "name": "Nisha Solanki",
+      "location": "Ålesund",
+      "img": "/petsitter_aretha.webp",
+      "pricePerDay": 300,
+      "rating": 4.4,
+      "reviewCount": 7,
+      "maxDogs": 1,
+      "acceptsPuppies": false,
+      "acceptsLargeDogs": false,
+      "yearsOfExperience": 12,
+      "experienceDescription": "Mye erfaring med forsiktige hunder som krever mye tålmodighet",
       "available": true,
       "created": "2025-09-02T09:00:00",
       "updated": "2025-09-12T16:45:00"
