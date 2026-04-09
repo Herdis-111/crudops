@@ -110,7 +110,8 @@
       "experienceDescription": "Erfaring med valper, seniorhunder og lange turer",
       "available": true,
       "created": "2025-09-02T09:00:00",
-      "updated": "2025-09-12T16:45:00"
+      "updated": "2025-09-12T16:45:00",
+      "review": [{ "title": "", "text": "" }]
     },
     {
       "id": 2,
@@ -127,7 +128,8 @@
       "experienceDescription": "Lang erfaring med alle typer hunder",
       "available": true,
       "created": "2025-09-02T09:00:00",
-      "updated": "2025-09-12T16:45:00"
+      "updated": "2025-09-12T16:45:00",
+      "review": [{ "title": "", "text": "" }]
     },
     {
       "id": 3,
@@ -144,7 +146,8 @@
       "experienceDescription": "Mye erfaring med forsiktige hunder som krever mye tålmodighet",
       "available": true,
       "created": "2025-09-02T09:00:00",
-      "updated": "2025-09-12T16:45:00"
+      "updated": "2025-09-12T16:45:00",
+      "review": [{ "title": "", "text": "" }]
     }
   ],
   "bookings": [
