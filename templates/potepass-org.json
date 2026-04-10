@@ -12,7 +12,9 @@
           "name": "Bella",
           "breed": "Golden Retriever",
           "age": 4,
-          "allergies": ["kylling"]
+          "allergies": [
+            "kylling"
+          ]
         },
         {
           "id": 2,
