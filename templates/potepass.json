@@ -24,7 +24,7 @@
           "pic": "/dog-card-img-Max.webp",
           "breed": "Labrador",
           "age": 2,
-          "allergies": [],
+          "allergies": ["ingen"],
           "about": "Max er litt mer nervøs og trenger mye kos og omsorg. Han trives best sammen med Bella og lar gjerne hun ta styringen litt. Han er vandt med barn, men han trekker seg fort unna hvis det blir for mye bråk og leven."
         }
       ],
@@ -68,7 +68,7 @@
           "pic": "/dog-card-img-Severus.webp",
           "breed": "Dachshund",
           "age": 6,
-          "allergies": [""],
+          "allergies": ["ingen"],
           "about": "Severus er en liten grubler med stor personlighet. Han tar livet i sitt eget tempo og elsker rolige spaserturer hvor han får snuse seg gjennom hvert eneste hjørne. Han kan være litt sta til tider, men vinner deg raskt over med sitt lune vesen. Severus trives best i rolige omgivelser og setter stor pris på en fast rutine. Han er ikke den mest lekne med barn, men koser gjerne ved siden av når stemningen er rolig."
         },
         {
@@ -77,7 +77,7 @@
           "pic": "/dog-card-img-Harley.webp",
           "breed": "Cockapoo",
           "age": 5,
-          "allergies": [""],
+          "allergies": ["ingen"],
           "about": "Harley er en sosial sjarmør som elsker å være midtpunktet. Hun hilser gladelig på både mennesker og andre hunder, og logrer seg raskt inn i alles hjerter. Harley er leken og tilpasningsdyktig, og blir gjerne med på både turer og sofakos. Hun er vant med barn og trives godt i en livlig hverdag, men trenger også litt mental stimulering for å holde seg fornøyd."
         },
         {
