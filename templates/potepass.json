@@ -24,11 +24,10 @@
           "pic": "/dog-card-img-Max.webp",
           "breed": "Labrador",
           "age": 2,
-          "allergies": [],
+          "allergies": ["ingen"],
           "about": "Max er litt mer nervøs og trenger mye kos og omsorg. Han trives best sammen med Bella og lar gjerne hun ta styringen litt. Han er vandt med barn, men han trekker seg fort unna hvis det blir for mye bråk og leven."
         }
       ],
-      "favorites": [],
       "created": "2025-09-01T10:30:00",
       "updated": "2025-09-10T14:20:00"
     },
@@ -51,7 +50,6 @@
           "about": "Einstein er en kvikk og oppvakt liten fyr med masse personlighet. Han elsker å bruke hodet sitt og trives best når han får oppgaver å løse eller lære nye triks. Med sitt våkne blikk og raske bein er han alltid klar for både lek og aktivitet. Samtidig er han svært lojal og knytter sterke bånd til sine mennesker. Einstein går fint sammen med barn, men setter pris på tydelige rammer og litt struktur i hverdagen for å trives aller best."
         }
       ],
-      "favorites": [],
       "created": "2025-09-01T10:30:00",
       "updated": "2025-09-10T14:20:00"
     },
@@ -70,7 +68,7 @@
           "pic": "/dog-card-img-Severus.webp",
           "breed": "Dachshund",
           "age": 6,
-          "allergies": [""],
+          "allergies": ["ingen"],
           "about": "Severus er en liten grubler med stor personlighet. Han tar livet i sitt eget tempo og elsker rolige spaserturer hvor han får snuse seg gjennom hvert eneste hjørne. Han kan være litt sta til tider, men vinner deg raskt over med sitt lune vesen. Severus trives best i rolige omgivelser og setter stor pris på en fast rutine. Han er ikke den mest lekne med barn, men koser gjerne ved siden av når stemningen er rolig."
         },
         {
@@ -79,7 +77,7 @@
           "pic": "/dog-card-img-Harley.webp",
           "breed": "Cockapoo",
           "age": 5,
-          "allergies": [""],
+          "allergies": ["ingen"],
           "about": "Harley er en sosial sjarmør som elsker å være midtpunktet. Hun hilser gladelig på både mennesker og andre hunder, og logrer seg raskt inn i alles hjerter. Harley er leken og tilpasningsdyktig, og blir gjerne med på både turer og sofakos. Hun er vant med barn og trives godt i en livlig hverdag, men trenger også litt mental stimulering for å holde seg fornøyd."
         },
         {
@@ -92,7 +90,7 @@
           "about": "Frodo er en liten kar med stor selvtillit og enda større sjarm. Han elsker oppmerksomhet og følger gjerne etter deg overalt, alltid klar for både kos og små eventyr. Til tross for størrelsen har han et våkent og modig vesen, og han sier gjerne ifra hvis noe virker mistenkelig. Frodo trives godt med barn, så lenge de er rolige og hensynsfulle, og han setter stor pris på å få være en del av familien i hverdagen."
         }
       ],
-      "favorites": [],
+
       "created": "2025-09-01T10:30:00",
       "updated": "2025-09-10T14:20:00"
     }
@@ -163,6 +161,17 @@
       "toDate": "2026-01-12",
       "status": "pending",
       "message": "Hei! Max er snill og vant til andre hunder. Ingen allergier.",
+      "created": "2025-12-30T12:15:00",
+      "updated": "2025-12-30T12:15:00"
+    }
+  ],
+
+  "favorites": [
+    {
+      "id": 1,
+      "userId": 1,
+      "petsitterId": 2,
+      "note": "",
       "created": "2025-12-30T12:15:00",
       "updated": "2025-12-30T12:15:00"
     }
